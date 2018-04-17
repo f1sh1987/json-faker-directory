@@ -1,8 +1,12 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "spanisch": "hola",
+      "deutsch": "hallo"
+    },
+	    {
+      "spanisch": "gracias",
+      "deutsch": "danke"
     }
   ],
   "profile": {
