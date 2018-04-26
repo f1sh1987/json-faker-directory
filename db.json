@@ -11,5 +11,24 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+	"employee": [
+	{"id": 1,
+	 "name": "Andrew",
+	 "age": 25
+	},
+	{"id": 2,
+	 "name": "Joe",
+	 "age": 35
+	},
+	{"id": 3,
+	 "name": "Peter",
+	 "age": 45
+	},
+	{"id": 4,
+	 "name": "Elena",
+	 "age": 16
+	},
+	
+	]
 }
